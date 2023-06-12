@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "protobufjs": "^7.2.3",
+    "redis": "^4.6.7",
+    "socket.io": "^4.6.2"
+  }
+}
