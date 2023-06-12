@@ -1,4 +1,3 @@
-
 # Test performance socket.io server
 Test performance of socket.io server. We have 400 stocks, and each stock will be 1 socket room.
 
